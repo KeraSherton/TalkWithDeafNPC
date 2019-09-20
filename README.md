@@ -1,2 +1,0 @@
-# TalkWithDeafNPC
-Created with CodeSandbox
